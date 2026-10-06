@@ -1,0 +1,11 @@
+# MIMIC-IV derived data (credentialed access, must not be shared)
+datasets/*
+!datasets/.gitkeep
+
+# Experiment outputs
+experiments/results*/
+
+__pycache__/
+*.pyc
+.idea/
+.vscode/

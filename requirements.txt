@@ -1,0 +1,8 @@
+# Python 3.12
+numpy==2.0.2
+pandas==2.2.2
+scikit-learn==1.5.2
+torch==2.4.1
+optuna==4.0.0
+# MED3pa with the uncertainty explainer (Detectron, FeatureResumer), not yet released on PyPI
+MED3pa @ git+https://github.com/MEDomicsLab/MED3pa.git@329f41b39539029b8f522bc5ccd55602d2f2945a
